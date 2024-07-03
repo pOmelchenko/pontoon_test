@@ -14,10 +14,6 @@ msgstr ""
 "X-Generator: Pontoon\n"
 
 msgctxt "app"
-msgid "Вы находитесь здесь уже {n, duration}"
-msgstr[0] ""
-
-msgctxt "app"
 msgid "Поздравляем"
 msgstr ""
 
