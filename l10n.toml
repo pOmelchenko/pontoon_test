@@ -8,5 +8,5 @@ basepath = "."
     l = "{l10n_base}/locales/{locale}"
 
 [[paths]]
-    reference = "locales/templates/message.po"
+    reference = "locales/templates/message.pot"
     l10n = "{l}/message.po"
