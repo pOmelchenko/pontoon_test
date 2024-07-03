@@ -12,7 +12,7 @@ msgstr ""
 
 msgctxt "app"
 msgid "Вы находитесь здесь уже {n, duration}"
-msg_plural ""
+msgid_plural ""
 magstr[0] ""
 magstr[1] ""
 
