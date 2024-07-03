@@ -11,10 +11,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgctxt "app"
-msgid "Вы находитесь здесь уже {n, duration}"
-msgid_plural ""
-msgstr[0] ""
-msgstr[1] ""
+msgstr "Вы находитесь здесь уже {n, duration}"
+msgstr ""
 
 msgctxt "app"
 msgid "Поздравляем"
